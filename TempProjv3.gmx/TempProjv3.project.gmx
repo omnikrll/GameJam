@@ -25,11 +25,28 @@
     <sprite>sprites\spr_stepBottom</sprite>
     <sprite>sprites\spr_stepMIddle</sprite>
     <sprite>sprites\spr_stepTop</sprite>
+    <sprite>sprites\bossdesk</sprite>
+    <sprite>sprites\copymachine</sprite>
+    <sprite>sprites\desk_long</sprite>
+    <sprite>sprites\smalldesk</sprite>
+    <sprite>sprites\smalldeskcomputer</sprite>
+    <sprite>sprites\tall_drawer</sprite>
+    <sprite>sprites\smalldrawer</sprite>
+    <sprite>sprites\glassceiling</sprite>
+    <sprite>sprites\glassceilingbroken</sprite>
+    <sprite>sprites\glassshard</sprite>
+    <sprite>sprites\longdeskcomputer</sprite>
+    <sprite>sprites\tallplant</sprite>
+    <sprite>sprites\smallplant</sprite>
+    <sprite>sprites\watercooler</sprite>
+    <sprite>sprites\sprite30</sprite>
+    <sprite>sprites\sprite31</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\background1</background>
     <background>background\background2</background>
+    <background>background\officetiles</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\topStair</path>
@@ -60,6 +77,24 @@
     <object>objects\obj_stepMiddle</object>
     <object>objects\obj_stepTop</object>
     <object>objects\obj_health</object>
+    <object>objects\object20</object>
+    <object>objects\object21</object>
+    <object>objects\object22</object>
+    <object>objects\copy_machine</object>
+    <object>objects\long_desk</object>
+    <object>objects\leafy_plant</object>
+    <object>objects\bushy_plant</object>
+    <object>objects\glass_ceiling</object>
+    <object>objects\glass_ceiling_broken</object>
+    <object>objects\longdesk_computer</object>
+    <object>objects\water_cooler</object>
+    <object>objects\shortdesk_computer</object>
+    <object>objects\short_desk</object>
+    <object>objects\Boss_desk</object>
+    <object>objects\object34</object>
+    <object>objects\object35</object>
+    <object>objects\elevatorrr</object>
+    <object>objects\sofa</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\welcome</room>
